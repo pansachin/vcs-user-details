@@ -1,4 +1,4 @@
-module github.com/pansachin/vcs-user-details
+module github.com/pansachin/vcs-user-details/v2
 
 go 1.19
 
