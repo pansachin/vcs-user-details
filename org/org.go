@@ -45,5 +45,5 @@ func main() {
 	fmt.Printf("Login: %v\n", *i.GetAccount().Login)
 	fmt.Printf("AvatarURL: %v\n", *i.GetAccount().AvatarURL)
 	fmt.Printf("HTMLURL: %v\n", *i.GetAccount().HTMLURL)
-	fmt.Printf("Name: %v\n", *i.GetAccount().Name)
+	// fmt.Printf("Name: %v\n", *i.GetAccount().Name)
 }
